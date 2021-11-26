@@ -1,8 +1,30 @@
+## Universal Cashback Protocol
 
-![alt text](https://blog.rtbmind.com/wp-content/uploads/2020/03/blockchain-portada-1024x209.jpg)
+**What is the Universal Cashback Protocol?
+**
 
-⚠️NOTE: the actual account of the Universal Cashback Protocol repositories was created on **22/11/2021**, the code before this date lived in the accounts of the initial participants; This last change was encouraged by wanting to make the solution to the problem we raised in its entirety a reality, appropriating it would not allow it, sharing it to the world is the best option, this will be a reality not a fantasy, ¡we will achieve it!
-**"A journey of a thousand miles begins with the first step."** *Lao Tse*
+It is a protocol for affiliated companies that want to carry out promotions in order to get customers loyalty. It works as follows: for the purchase of products, users receive Tokens (a.k.a. UCP Protocol Tokens) that they can then use to exchange for products at any company that uses the Protocol.
 
-🌱 We are currently in development - Collaborate on our code, let's build the future of UCP
 
+**General objectives:
+**
+
+•	Promote the inclusion of people without technical knowledge in the Crypto economy through granting Cashback benefits in a simple way.
+ 
+•	Adopt Blockchain technology in everyday use cases.
+ 
+•	Expose to the general population the benefits and options obtained from decentralization.
+
+
+**What does this project contribute to the community?
+ **
+ 
+We believe that everyone wins: The idea is that more people can approach the ecosystem of Blockchain and cryptocurrencies in a more friendly way. And all people make purchases of different products on a daily basis.
+Consumers: they will be happy to make a profit on their purchases.
+Companies: we provide the tools for a simple cashback process avoiding bureaucracy and technical knowledge.
+
+
+**How does the Protocol work?
+**
+
+![](https://i.imgur.com/sYDpdlV.png)
