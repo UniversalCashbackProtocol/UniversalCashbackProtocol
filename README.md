@@ -1,33 +1,13 @@
-## Universal Cashback Protocol
+https://user-images.githubusercontent.com/85961824/143723368-182ae4c4-2ffe-4463-852b-30a1c3990f41.mp4
 
-**What is the Universal Cashback Protocol?**
+⚠️NOTE: the actual account of the Universal Cashback Protocol repositories was created on **22/11/2021**, the code before this date lived in the accounts of the initial participants; This last change was encouraged by wanting to make the solution to the problem we raised in its entirety a reality, appropriating it would not allow it, sharing it to the world is the best option, this will be a reality not a fantasy, ¡we will achieve it!
+**"A journey of a thousand miles begins with the first step."** *Lao Tse*
 
-Universal Cashback Protocol was born as a decentralized solution for the cashback service using smart contracts, without intermediaries, using UCP (Universal Cashback Protocol) as token.
-The initial proposal developed works as follows: 
-Affiliate companies can generate rewards with UCP tokens for the purchase of products, by accumulating UCP for purchases, it allows the user to exchange UCP tokens for USDT and buy more products.
-
-
-**General objectives:**
-
-
-•	Promote the inclusion of people without technical knowledge in the Crypto economy through granting Cashback benefits in a simple way.
-
-•	Adopt Blockchain technology in everyday use cases.
-
-•	Expose to the general population the benefits and options obtained from decentralization.
-
-**What does this project contribute to the community?**
-
-We believe that everyone wins: The idea is that more people can approach the ecosystem of Blockchain and cryptocurrencies in a more friendly way. And all people make purchases of different products on a daily basis.
-Consumers: they will be happy to make a profit on their purchases.
-Companies: we provide the tools for a simple cashback process avoiding bureaucracy and technical knowledge.
-It may sound utopian, but we believe that with this project we are contributing to build freedom, and for us that is priceless.
-
-**Actual infrastructure:**
-
-![](https://i.imgur.com/VbWAzIu.png)
-
-### Link to full documentation:
+🌱 We are currently in development - Collaborate on our code, let's build the future of UCP
 
 `<link>` : <https://github.com/UniversalCashbackProtocol>
+
+
+
+
 
